@@ -33,6 +33,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
   </div>
 </div>
+  
+![Snake animation](https://github.com/eduardobueno/eduardobueno/blob/output/github-contribution-grid-snake.svg)
 
 ##
 ### Principais tecnologias com que trabalho/já trabalhei
