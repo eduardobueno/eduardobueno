@@ -25,17 +25,11 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/eduardobueno">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
-  </div>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
 </div>
   
-![Snake animation](https://github.com/eduardobueno/eduardobueno/blob/output/github-contribution-grid-snake.svg)
-
 ##
 ### Principais tecnologias com que trabalho/já trabalhei
 
