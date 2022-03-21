@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/eduardobueno">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <!--<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
 </div>
   
 ##
@@ -45,6 +45,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Edu-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Edu-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+##
+### Artigos que já escrevi
+ 
+<!-- BLOG-POST-LIST:START -->
+ - <a href="https://dev.to/eduardobueno/sobre-a-lei-de-newcomb-benford-e-sua-relacao-com-a-matematica-3eig">Sobre a Lei de Newcomb-Benford, e sua relação com a Matemática</a>
+ - <a href="https://dev.to/eduardobueno/voce-sabia-que-e-possivel-usar-matematica-para-deteccao-de-fraude-2cd0">Você sabia que é possível usar Matemática para detecção de fraude?</a>
+<!-- BLOG-POST-LIST:END -->  
 
 ##
 ### Contato
