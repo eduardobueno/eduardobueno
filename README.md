@@ -18,8 +18,21 @@ Here are some ideas to get you started:
 ##
 ### Estatísticas (porque eu gosto de Dados...)
 
-![eduardobueno Status](https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=swift)](https://git.io/streak-stats)
+<!--
+![eduardobueno Status](https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-br)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default)](https://git.io/streak-stats)
+-->
+
+<div align="left">
+  <a href="https://github.com/eduardobueno">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
+  </div>
+</div>
 
 ##
 ### Principais tecnologias com que trabalho/já trabalhei
