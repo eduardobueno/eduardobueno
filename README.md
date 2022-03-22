@@ -27,9 +27,9 @@ Meu background é técnico, mas sempre transitei bem entre as carreiras técnica
 
 <div align="left">
   <a href="https://github.com/eduardobueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardobueno&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <!--<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=eduardobueno&theme=default"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobueno&layout=default&langs_count=7&theme=swift"/>
 </div>
   
 ##
