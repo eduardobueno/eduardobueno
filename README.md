@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Já programei em diversas linguagens (VB, SQL, VB.NET, Ruby, Go, Java, Angular... até Cold Fusion!), hoje sou um entusiasta de Python, Flutter e também - claro - do meu combo favorito: .NET + C#!
 
-Meu background é técnico, mas sempre transitei bem entre as carreiras técnica e de gestão. De qualquer forma, nunca deixei de ser um desenvolvedor de software.
+Big Data e Machine Learning são outros temas que me atraem bastante, então estou sempre buscando conteúdo sobre eles. E também tenho estudado muito sobre Cloud, Arquitetura de Software e a cultura DevOps. 
+
+E, apesar deste meu background técnico, sempre transitei bem entre as carreiras técnica e de gestão.
 
 ##
 ### Estatísticas (porque eu gosto de Dados...)
