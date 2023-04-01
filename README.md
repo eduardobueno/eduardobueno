@@ -82,6 +82,7 @@ E, apesar deste meu background técnico, sempre transitei bem entre as carreiras
 <!-- BLOG-POST-LIST:START -->
  - <a href="https://dev.to/eduardobueno/sobre-a-lei-de-newcomb-benford-e-sua-relacao-com-a-matematica-3eig">Sobre a Lei de Newcomb-Benford, e sua relação com a Matemática</a>
  - <a href="https://dev.to/eduardobueno/voce-sabia-que-e-possivel-usar-matematica-para-deteccao-de-fraude-2cd0">Você sabia que é possível usar Matemática para detecção de fraude?</a>
+ - <a href="https://dev.to/eduardobueno/sobre-kubernetes-e-a-utilizacao-do-k6-para-efetuar-testes-de-cargadesempenho-em-um-pod-no-cluster-do-k8s-parte-1-1k6l">Sobre Kubernetes e a utilização do K6 para efetuar testes de carga/desempenho em um Pod no Cluster do K8s - Parte 1</a>  
 <!-- BLOG-POST-LIST:END -->  
 
 ##
